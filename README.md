@@ -1,4 +1,4 @@
-# CivicPulse
+# CampusFix
 
 A citizen civic-issue reporting system that lets users report local problems
 (potholes, broken streetlights, damaged sidewalks, graffiti, fallen trees)
@@ -7,7 +7,7 @@ classification, GPS location tagging, and duplicate-report detection.
 
 ## Tech Stack
 - Frontend: HTML, CSS, JavaScript (Flask/Django templates)
-- Backend: Python (Flask/Django)
+- Backend: Node.js
 - Database: PostgreSQL (PostGIS for geospatial queries)
 - AI/ML: TensorFlow/Keras (MobileNetV2 transfer learning)
 
